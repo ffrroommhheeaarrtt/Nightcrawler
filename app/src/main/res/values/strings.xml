@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Nightcrawler</string>
+    <!-- Navigation menu -->
+    <string name="navigation_bar_movie_list">Movie list</string>
+    <string name="navigation_bar_favorites">Favorites</string>
+    <!-- Buttons -->
+    <string name="button_adding_to_favorites">Add to favorites</string>
+    <string name="button_remove_from_favorites">Remove from favorites</string>
+    <string name="button_trailer">Trailer</string>
+    <string name="button_favorites_movies">Favorites movies</string>
+    <string name="button_cleaning_favorites">Clean favorites</string>
+    <string name="button_back">Back</string>
+    <!-- Other -->
+    <string name="placeholder_movie_search">Movie search</string>
+    <string name="rating">Rating</string>
+    <string name="popularity">Popularity</string>
+    <string name="number_of_ratings">Number of ratings</string>
+    <string name="movie_title">Title</string>
+    <string name="poster">Poster</string>
+    <string name="release_date">Release date</string>
+    <string name="genre">Genre</string>
+    <string name="movie_duration">Duration</string>
+    <string name="country">Country</string>
+    <string name="director">Director</string>
+    <string name="scriptwriter">Writer</string>
+    <string name="cast">Cast</string>
+    <string name="photo">Photo</string>
+    <string name="hour_abb">h</string>
+    <string name="minute_abb">m</string>
+    <string name="sorting">Sorting</string>
+    <string name="sorted_by">Sorted by…</string>
+</resources>
